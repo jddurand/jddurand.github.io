@@ -1,0 +1,30 @@
+Origin: Debian
+Label: Debian
+Suite: unstable
+Codename: unstable
+Version: 3.0
+Date: Fri, 18 Apr 2014 23:46:50 UTC
+Architectures: i386
+Components: contrib
+Description: Marpa Parser packages for debian/unstable
+MD5Sum:
+ eb015798ffda8c84d274ebf7ebac878f 1853 contrib/binary-i386/Packages
+ 56ef41ddbe535f94b235524ec765a1e2 773 contrib/binary-i386/Packages.gz
+ fc6294c65e7d043d59980cf1529e9684 153 contrib/binary-i386/Release
+ d3cc7f8a6041fdfad0dd5a449bc2d5b4 1303 contrib/source/Sources
+ 879a9b1e3488cdfd41e8026060d8cd82 666 contrib/source/Sources.gz
+ 846386fd6a1ddabb12f484053bbafbb6 155 contrib/source/Release
+SHA1:
+ aaab477a8730058f1c97276da0d67337c1adc722 1853 contrib/binary-i386/Packages
+ a2d937b246cf02c3b7de721781733b13a277a516 773 contrib/binary-i386/Packages.gz
+ a20bca2a82f39727eedbea53f70adfad56e3c974 153 contrib/binary-i386/Release
+ 5e9c5cab6b6a708433d91a6944f3cd89bb42ab84 1303 contrib/source/Sources
+ d12d736c858c331caa20808732f6fcc254fc5eae 666 contrib/source/Sources.gz
+ bcd9e3952e0cbc66ab2388dfa2f029ff8b01f6a8 155 contrib/source/Release
+SHA256:
+ 7cc1b254c214f9cd291f41b0cef8963822b0a0b3e0e0799bc4ac326d511df5b3 1853 contrib/binary-i386/Packages
+ 7b08284ac1c65d7987a924d7f64016f68450c2e461f3abc95879097f6ae1c6c6 773 contrib/binary-i386/Packages.gz
+ f2dc61f892131b79a0b004ff547ea851eaf5e1da0017b218efa30a9d5e985b59 153 contrib/binary-i386/Release
+ 02517aacff9f35799d58b88f4d25c1f7b5d1a5d2ba93dce5f8542bad0e04692f 1303 contrib/source/Sources
+ 0ecf05f306c577bb6524a3bd3a00a5c47b4d6ee660db04f8ec2bc541b7807d0f 666 contrib/source/Sources.gz
+ 5b6085c4928c44dea904ef8a32ae9909ba98bb4366e1b17e6dc1e2eab45ca50d 155 contrib/source/Release

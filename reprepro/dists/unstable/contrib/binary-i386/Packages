@@ -1,0 +1,43 @@
+Package: libmarpa
+Version: 6.0.1-1
+Architecture: i386
+Maintainer: Jean-Damien Durand <jeandamiendurand@free.fr>
+Installed-Size: 144
+Depends: libc6 (>= 2.4)
+Homepage: http://github.com/jeffreykegler/Marpa--R2/
+Priority: optional
+Section: libs
+Filename: pool/contrib/libm/libmarpa/libmarpa_6.0.1-1_i386.deb
+Size: 53712
+SHA256: 769a30db1b37caeefa935ccea2d61c4819fe076182d3f8304be531fd045df8a4
+SHA1: bcc759a56e7cda9e39875fcbab42296db027c27a
+MD5sum: 3df2b1a4cbb5d2d05280fab1170c0c37
+Description: Parse any language you can describe in BNF
+ Marpa is a new parsing algorithm with a decades-long heritage.
+ Its lineage starts with the algorithm invented by Jay Earley.
+ Marpa is the first algorithm to combine the improvements to Earley's algorithm
+ made by Joop Leo with those discovered by John Aycock and R. Nigel Horspool.
+ Marpa's "situational awareness", and Ruby Slippers parsing, are a new feature.
+
+Package: libmarpa-dev
+Source: libmarpa
+Version: 6.0.1-1
+Architecture: i386
+Maintainer: Jean-Damien Durand <jeandamiendurand@free.fr>
+Installed-Size: 36
+Depends: libmarpa (= 6.0.1-1)
+Homepage: http://github.com/jeffreykegler/Marpa--R2/
+Priority: optional
+Section: libdevel
+Filename: pool/contrib/libm/libmarpa/libmarpa-dev_6.0.1-1_i386.deb
+Size: 7006
+SHA256: 3aa8bb205793e4b244cd2d5d156631df3df4635638563f96e17f2ced57a440da
+SHA1: b03d1e6dc5d8b8567516fa020fd94b65f072fd12
+MD5sum: b4c0a4ecf048065196ddde37f33863b5
+Description: Parse any language you can describe in BNF - development files
+ Marpa is a new parsing algorithm with a decades-long heritage.
+ Its lineage starts with the algorithm invented by Jay Earley.
+ Marpa is the first algorithm to combine the improvements to Earley's algorithm
+ made by Joop Leo with those discovered by John Aycock and R. Nigel Horspool.
+ Marpa's "situational awareness", and Ruby Slippers parsing, are a new feature.
+
